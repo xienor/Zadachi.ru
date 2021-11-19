@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color: red;
+}
+.main{
+    min-height:100vh;
+    padding: 10%;
+}
+
+.frame {
+    background-color: green;
+    margin: auto;
+    width: 90%;
+    height: 90vh;
+}
